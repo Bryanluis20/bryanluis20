@@ -1,5 +1,10 @@
 ### Hi, I'm Bryan
 
+const nidudev = {
+    pronouns: "he" | "him"
+    code: [Html, css, Java, mysql, php],
+    tools: [React, Node, Docker],
+}
 
 
 <!--
