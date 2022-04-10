@@ -1,6 +1,6 @@
 ### Hi, I'm Bryan
 
-const nidudev = {
+const midudev = {
     pronouns: "he" | "him"
     code: [Html, css, Java, mysql, php],
     tools: [React, Node, Docker],
